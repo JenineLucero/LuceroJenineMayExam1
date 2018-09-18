@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LuceroJenineMayExam1</string>
+    <string name = "note_1">American Horror Story</string>
+    <string name = "noted1">It  was created by the co-creators of "Glee,"
+        but the shows have little in common besides that.</string>
+    <string name = "note_2">Best Horror TV Series</string>
+    <string name="noted2">The creatures have a history of not only spooking the house
+        residents but also devouring them. After living in this house,
+        family patriarch and psychiatrist.</string>
+    <string name="note_3">I LOVE AHS</string>
+    <string name="noted3">An anthology series centering on different characters
+        and locations.</string>
+    <string name = "title1">Personal Notes</string>
+    <string name="title2">Office Notes</string>
+    <string name="title3">Public Notes</string>
+</resources>
